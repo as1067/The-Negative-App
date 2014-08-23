@@ -2,7 +2,7 @@
 //  DataViewController.swift
 //  The Negative App
 //
-//  Created by Monika Gorkani on 8/22/14.
+//  Created by Cyrus Tau on 8/22/14.
 //  Copyright (c) 2014 Cyrus Tau Inc. All rights reserved.
 //
 
@@ -17,11 +17,16 @@ class DataViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+    var x = 5
+    var y = x/3
+    println(y)
+    
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
+    
     }
 
     override func viewWillAppear(animated: Bool) {

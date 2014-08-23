@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  The Negative App
 //
-//  Created by Monika Gorkani on 8/22/14.
+//  Created by Cyrus Tau on 8/22/14.
 //  Copyright (c) 2014 Cyrus Tau Inc. All rights reserved.
 //
 
